@@ -34,7 +34,7 @@ Project D    | 122781570 | 3838271977
 
 This will download all fastq.gz files from your project. Note you have to copy paste the specific ID from your project into this
 
-	bs download run -i <ID> --extension=fastq.gz -o ~/path/of/your/choice 
+	bs download project -i <ID> --extension=fastq.gz -o ~/path/of/your/choice 
 
 [Here](https://developer.basespace.illumina.com/docs/content/documentation/cli/cli-overview) is there official documentation on installing: 
 
